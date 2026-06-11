@@ -11,3 +11,6 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,git,github,vscode&perline=6" />
 </p>
 
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/ZAINUL001/ZAINUL001/blob/output/github-contribution-grid-snake.svg)
