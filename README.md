@@ -4,13 +4,13 @@
 
 <h2>🌐 Socials</h2>
 
-<p>
-  <a href="https://discord.gg/vMxsj2QxU">
-    <img src="https://cdn.simpleicons.org/discord" width="50" />
+<p align="left">
+  <a href="https://discord.gg/vMxsj2QxU" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="50" height="50"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/sayed-zainul-abedin-husain-413771309/">
-    <img src="https://cdn.simpleicons.org/linkedin" width="50" />
+  <a href="https://www.linkedin.com/in/sayed-zainul-abedin-husain-413771309/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50"/>
   </a>
 </p>
 # 💻 Tech Stack:
