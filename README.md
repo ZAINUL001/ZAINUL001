@@ -8,7 +8,7 @@
 # 💻 Tech Stack:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,git,github,vscode,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,git,github,vscode&perline=6" />
 </p>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ZAINUL001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
