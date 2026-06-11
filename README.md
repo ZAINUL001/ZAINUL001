@@ -13,4 +13,6 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/ZAINUL001/ZAINUL001/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ZAINUL001/ZAINUL001/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
