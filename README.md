@@ -5,7 +5,7 @@
 # 🌐 Socials
 
 <p align="center">
-  <a href="https://discord.gg/YOUR_INVITE">
+[<img src="https://cdn.simpleicons.org/discord" width="40"/>](https://discord.gg/YOUR_INVITE)
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="48" height="48"/>
   </a>
   
