@@ -4,10 +4,11 @@
 
 # 🌐 Socials
 
-<p align="center">
-[<img src="https://cdn.simpleicons.org/discord" width="40"/>](https://discord.gg/YOUR_INVITE)
-    
-  </a>
+
+
+<a href="https://discord.gg/YOUR_INVITE">
+  <img src="https://skillicons.dev/icons?i=discord" />
+</a>
   
   <a href="https://www.linkedin.com/in/sayed-zainul-abedin-husain-413771309/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48"/>
