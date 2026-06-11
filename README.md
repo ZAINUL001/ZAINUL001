@@ -8,9 +8,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayed-zainul-abedin-husain-413771309/)
 
 # 💻 Tech Stack:
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,git,github,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,git,github,vscode&perline=10" />
 </p>
 
 ## Contribution Snake
