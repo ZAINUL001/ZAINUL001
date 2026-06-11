@@ -6,7 +6,7 @@
 
 <p align="center">
 [<img src="https://cdn.simpleicons.org/discord" width="40"/>](https://discord.gg/YOUR_INVITE)
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="48" height="48"/>
+    
   </a>
   
   <a href="https://www.linkedin.com/in/sayed-zainul-abedin-husain-413771309/">
