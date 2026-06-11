@@ -3,9 +3,11 @@
 
 
 # 🌐 Socials
+# 🌐 Socials
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/vMxsj2QxU)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayed-zainul-abedin-husain-413771309/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_INVITE)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayed-zainul-abedin-husain-413771309/)
 
 # 💻 Tech Stack:
 <p align="left">
