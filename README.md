@@ -13,8 +13,12 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,git,github,vscode&perline=6" />
 </p>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ZAINUL001/ZAINUL001/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BLUETOID/BLUETOID/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/BLUETOID/BLUETOID/blob/output/github-snake.svg" />
+    <img alt="GitHub Snake" src="https://github.com/BLUETOID/BLUETOID/blob/output/github-snake-dark.svg" />
+  </picture>
+</div>
