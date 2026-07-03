@@ -1,8 +1,6 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=%24+whoami;Sayed+Zainul+Abedin+Husain;Computer+Science+Undergraduate+(Data+Science);Building+LLMs+%7C+Learning+RAG" />
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=1200&color=00FF41&center=true&vCenter=true&width=950&lines=%24+whoami;Sayed+Zainul+Abedin+Husain;But+you+can+call+me+Zain.;Computer+Science+Undergraduate+(Data+Science);Building+LLMs+%7C+Learning+RAG;Always+learning+something+new." />
+</p>
 
 ---
 
