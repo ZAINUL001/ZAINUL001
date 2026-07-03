@@ -56,17 +56,10 @@ TOOLS           :: Git
 
 ---
 
-# `github_statistics`
-
-
-<p align="center">
- <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZAINUL001&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZAINUL001&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-</p>
+# `terminal_dashboard`
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ZAINUL001&theme=chartreuse-dark&hide_border=true"/>
+  <img src="assets/dashboard.svg" width="100%" alt="Terminal Dashboard"/>
 </p>
 
 ---
