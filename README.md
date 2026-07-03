@@ -33,22 +33,15 @@ TOOLS           :: Git
 
 ---
 
-# `technology_stack`
+## `technology_stack`
 
 <p align="left">
-
-<img src="https://img.shields.io/badge/Python-00FF41?style=for-the-badge&logo=python&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-00FF41?style=for-the-badge&logo=cplusplus&logoColor=black"/>
-<img src="https://img.shields.io/badge/Java-00FF41?style=for-the-badge&logo=openjdk&logoColor=black"/>
-<img src="https://img.shields.io/badge/LangChain-00FF41?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-00FF41?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-00FF41?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Git-00FF41?style=for-the-badge&logo=git&logoColor=black"/>
-<img src="https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge&logo=github&logoColor=black"/>
-<img src="https://img.shields.io/badge/VS%20Code-00FF41?style=for-the-badge&logo=visualstudiocode&logoColor=black"/>
-
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,vscode&perline=8" />
 </p>
 
+### Currently Exploring
+
+`LangChain` • `LLMs` • `RAG`
 ---
 
 # `current_mission`
