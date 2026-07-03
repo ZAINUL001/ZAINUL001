@@ -1,26 +1,93 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>AI-powered applications and sharpening my DSA skills for software engineering roles.<br><br>👯 I’m looking to collaborate on<br>AI, Machine Learning, Data Science, and Full-Stack Development projects.<br><br>🤝 I’m looking for help with<br>MLOps, System Design, and scaling real-world AI applications.<br><br>🌱 I’m currently learning<br>Artificial Intelligence,DSA, and Modern Web Development.<br><br>💬 Ask me about<br>AI Development, DSA, GitHub, Productivity, and Video Editing.<br><br>⚡ Fun fact<br>I'm an engineering student who combines coding and content creation to stay accountable and keep learning.
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=%24+whoami;Sayed+Zainul+Abedin+Husain;Computer+Science+Undergraduate+(Data+Science);Building+LLMs+%7C+Learning+RAG" />
 
+</div>
 
+---
 
+# `system_profile`
 
+```bash
+STATUS          :: ONLINE
 
-<h2>🌐 Socials</h2>
+ROLE            :: Computer Science Undergraduate (Data Science)
+
+FOCUS           :: Large Language Models
+                   Retrieval-Augmented Generation
+                   Artificial Intelligence
+                   Data Structures & Algorithms
+
+CURRENT_TASK    :: Building LLM Applications
+                   Learning LangChain
+                   Solving LeetCode
+
+LANGUAGES       :: Python
+                   C++
+                   Java
+
+TOOLS           :: Git
+                   GitHub
+                   VS Code
+```
+
+---
+
+# `technology_stack`
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Python-00FF41?style=for-the-badge&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00FF41?style=for-the-badge&logo=cplusplus&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-00FF41?style=for-the-badge&logo=openjdk&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-00FF41?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-00FF41?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-00FF41?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-00FF41?style=for-the-badge&logo=git&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/VS%20Code-00FF41?style=for-the-badge&logo=visualstudiocode&logoColor=black"/>
+
+</p>
+
+---
+
+# `current_mission`
+
+```text
+[✓] Learn Python
+[✓] Learn Git & GitHub
+[ ] Master LangChain
+[ ] Build Production-Ready RAG Systems
+[ ] Build AI Projects
+[ ] Solve 500+ LeetCode Problems
+[ ] Crack GATE CSE
+```
+
+---
+
+# `github_statistics`
 
 <p align="center">
-  <a href="https://discord.gg/vMxsj2QxU">
-    <img src="https://cdn.simpleicons.org/discord" width="50" />
-  </a>
 
-  <a href="https://www.linkedin.com/in/sayed-zainul-abedin-husain-413771309/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50"/>
-  </a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ZAINUL001&show_icons=true&theme=chartreuse-dark"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZAINUL001&layout=compact&theme=chartreuse-dark"/>
+
 </p>
-# 💻 Tech Stack:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,git,github,vscode&perline=10" />
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ZAINUL001&theme=chartreuse-dark"/>
+
 </p>
+
+---
+
+```console
+$ logout
+
+Session terminated.
+```
 
 ## Contribution Snake
 
