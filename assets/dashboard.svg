@@ -1,523 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<svg
-xmlns="http://www.w3.org/2000/svg"
-width="1200"
-height="850"
-viewBox="0 0 1200 850">
-
-<defs>
-
-
-<style>
-
-
-.bg{
-fill:#070707;
-}
-
-.term{
-fill:#0d0d0d;
-stroke:#00ff41;
-stroke-width:3;
-}
-
-.white{
-fill:white;
-font-family:Consolas,'Courier New',monospace;
-}
-
-.green{
-fill:#00ff41;
-font-family:Consolas,'Courier New',monospace;
-}
-
-.small{
-font-size:18px;
-}
-
-.medium{
-font-size:24px;
-}
-
-.large{
-font-size:32px;
-}
-
-.title{
-font-size:20px;
-}
-
-</style>
-
-<filter id="glow">
-
-<feGaussianBlur stdDeviation="4" result="coloredBlur"/>
-
-<feMerge>
-
-<feMergeNode in="coloredBlur"/>
-
-<feMergeNode in="SourceGraphic"/>
-
-</feMerge>
-
-</filter>
-
-</defs>
-
-<rect
-class="bg"
-width="1200"
-height="850"/>
-
-<rect
-class="term"
-filter="url(#glow)"
-x="35"
-y="35"
-width="1130"
-height="780"
-rx="18"/>
-
-<rect
-x="35"
-y="35"
-width="1130"
-height="45"
-rx="18"
-fill="#111111"/>
-
-<circle
-cx="65"
-cy="58"
-r="7"
-fill="#ff5f56"/>
-
-<circle
-cx="90"
-cy="58"
-r="7"
-fill="#ffbd2e"/>
-
-<circle
-cx="115"
-cy="58"
-r="7"
-fill="#27c93f"/>
-
-<text
-x="600"
-y="62"
-class="white title"
-text-anchor="middle">
-
-zain@github:~/dashboard
-
-</text>
-
-<text
-x="70"
-y="125"
-class="green medium">
-
-&gt; whoami
-
-</text>
-
-<text
-x="80"
-y="175"
-class="white small"
-font-family="'Courier New', monospace">
-
-<tspan x="80" dy="0"> /\_/\\</tspan>
-<tspan x="80" dy="20">( •.• )</tspan>
-<tspan x="80" dy="20"> / &gt;💻</tspan>
-
-</text>
-<text
-x="250"
-y="170"
-class="white large">
-
-Sayed Zainul Abedin Husain
-
-</text>
-
-<text
-x="250"
-y="210"
-class="green medium">
-
-aka Zain
-
-</text>
-
-<text
-x="250"
-y="260"
-class="white medium">
-
-Mission
-
-</text>
-
-<text
-x="270"
-y="295"
-class="green small">
-
-&gt; Build cool AI things.
-
-</text>
-
-<text
-x="270"
-y="325"
-class="green small">
-
-&gt; Pet every cat encountered.
-
-</text>
-
-<line
-x1="70"
-y1="365"
-x2="1130"
-y2="365"
-stroke="#00ff41"
-opacity=".35"
-stroke-width="2"/>
-
-<text
-x="70"
-y="405"
-class="green medium">
-
-&gt; skills
-
-</text>  
-<!-- Python -->
-
-<text
-x="90"
-y="455"
-class="white small">
-
-Python
-
-</text>
-
-<rect
-x="220"
-y="440"
-width="260"
-height="18"
-rx="9"
-fill="#1b1b1b"/>
-
-<rect
-x="220"
-y="440"
-width="240"
-height="18"
-rx="9"
-fill="#00ff41"/>
-
-<!-- C++ -->
-
-<text
-x="90"
-y="495"
-class="white small">
-
-C++
-
-</text>
-
-<rect
-x="220"
-y="480"
-width="260"
-height="18"
-rx="9"
-fill="#1b1b1b"/>
-
-<rect
-x="220"
-y="480"
-width="210"
-height="18"
-rx="9"
-fill="#00ff41"/>
-
-<!-- Java -->
-
-<text
-x="90"
-y="535"
-class="white small">
-
-Java
-
-</text>
-
-<rect
-x="220"
-y="520"
-width="260"
-height="18"
-rx="9"
-fill="#1b1b1b"/>
-
-<rect
-x="220"
-y="520"
-width="165"
-height="18"
-rx="9"
-fill="#00ff41"/>
-
-<!-- LLM -->
-
-<text
-x="90"
-y="575"
-class="white small">
-
-LLMs
-
-</text>
-
-<rect
-x="220"
-y="560"
-width="260"
-height="18"
-rx="9"
-fill="#1b1b1b"/>
-
-<rect
-x="220"
-y="560"
-width="110"
-height="18"
-rx="9"
-fill="#00ff41"/>
-
-<!-- RAG -->
-
-<text
-x="90"
-y="615"
-class="white small">
-
-RAG
-
-</text>
-
-<rect
-x="220"
-y="600"
-width="260"
-height="18"
-rx="9"
-fill="#1b1b1b"/>
-
-<rect
-x="220"
-y="600"
-width="90"
-height="18"
-rx="9"
-fill="#00ff41"/>
-
-<!-- Divider -->
-
-<line
-x1="560"
-y1="390"
-x2="1120"
-y2="390"
-stroke="#00ff41"
-opacity=".35"
-stroke-width="2"/>
-
-<text
-x="590"
-y="425"
-class="green medium">
-
-&gt; current_status
-
-</text>
-
-<text
-x="600"
-y="470"
-class="white small">
-
-STATUS
-
-</text>
-
-<text
-x="760"
-y="470"
-class="green small">
-
-ONLINE
-
-</text>
-
-<text
-x="600"
-y="505"
-class="white small">
-
-CURRENTLY
-
-</text>
-
-<text
-x="760"
-y="505"
-class="green small">
-
-Building LLM &amp; RAG Applications
-
-</text>
-
-<text
-x="600"
-y="540"
-class="white small">
-
-LEARNING
-
-</text>
-
-<text
-x="760"
-y="540"
-class="green small">
-
-LangChain
-
-</text>
-
-<text
-x="600"
-y="575"
-class="white small">
-
-GOAL
-
-</text>
-
-<text
-x="760"
-y="575"
-class="green small">
-
-Become an AI Engineer
-
-</text>
-<line
-x1="560"
-y1="610"
-x2="1120"
-y2="610"
-stroke="#00ff41"
-opacity=".35"
-stroke-width="2"/>
-
-<text
-x="590"
-y="645"
-class="green medium">
-
-&gt; cat ~/.life
-
-</text>
-
-<text
-x="610"
-y="690"
-class="white small">
-
-Current HP      ███████░░░ 73%
-
-</text>
-
-<text
-x="610"
-y="725"
-class="white small">
-
-Knowledge       █████░░░░░ Learning...
-
-</text>
-
-<text
-x="610"
-y="760"
-class="white small">
-
-Motivation      ████████░░ High
-
-</text>
-
-<text
-x="610"
-y="795"
-class="white small">
-
-Coffee          █░░░░░░░░░ Missing
-
-</text>
-
-<line
-x1="70"
-y1="730"
-x2="540"
-y2="730"
-stroke="#00ff41"
-opacity=".25"
-stroke-width="2"/>
-
-<text
-x="70"
-y="770"
-class="green medium">
-
-user@zain:~$
-
-</text>
-
-<rect
-x="225"
-y="748"
-width="12"
-height="28"
-fill="#00ff41">
-
-<animate
-attributeName="opacity"
-values="1;0;1"
-dur="1s"
-repeatCount="indefinite"/>
-
-</rect>
-
-<text
-x="590"
-y="825"
-class="green small">
-
-Keep Building...
-
-</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="850" viewBox="0 0 1200 850">
+  <defs>
+    <style>
+      .sans  { font-family: -apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif; }
+      .mono  { font-family: 'SFMono-Regular', Consolas, 'Courier New', monospace; }
+      .w     { fill:#e6edf3; }
+      .dim   { fill:#7d8590; }
+      .acc   { fill:#3fb950; }
+      .s14{font-size:14px;} .s16{font-size:16px;} .s18{font-size:18px;}
+      .s22{font-size:22px;}
+      .b{font-weight:600;}
+    </style>
+  </defs>
+
+  <!-- backdrop -->
+  <rect width="1200" height="850" fill="#090c10"/>
+
+  <!-- card -->
+  <rect x="40" y="40" width="1120" height="770" rx="14" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+
+  <!-- title bar -->
+  <line x1="40" y1="90" x2="1160" y2="90" stroke="#21262d" stroke-width="1"/>
+  <circle cx="70" cy="65" r="5" fill="none" stroke="#30363d" stroke-width="1.4"/>
+  <circle cx="90" cy="65" r="5" fill="none" stroke="#30363d" stroke-width="1.4"/>
+  <circle cx="110" cy="65" r="5" fill="none" stroke="#30363d" stroke-width="1.4"/>
+  <text x="600" y="70" text-anchor="middle" class="mono dim s14">zain@github&#160;&#8594;&#160;~/dashboard</text>
+
+  <!-- ============ CAT USING LAPTOP (whole cat) ============ -->
+  <g transform="translate(120,118) scale(1.55)">
+    <!-- tail, curling out from behind -->
+    <path d="M 146 98 Q 180 104 178 132 Q 176 152 154 148" fill="none" stroke="#3fb950" stroke-width="3.5" stroke-linecap="round"/>
+
+    <!-- body / shoulders peeking either side of the screen -->
+    <path d="M 26 44 C 10 58, 7 92, 14 118 L 32 118 L 32 48 Z" fill="#0d1117" stroke="#3fb950" stroke-width="2.5" stroke-linejoin="round"/>
+    <path d="M 134 44 C 150 58, 153 92, 146 118 L 128 118 L 128 48 Z" fill="#0d1117" stroke="#3fb950" stroke-width="2.5" stroke-linejoin="round"/>
+
+    <!-- laptop base / keyboard deck -->
+    <path d="M 10 118 L 150 118 L 138 132 L 22 132 Z" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+    <!-- laptop screen -->
+    <rect x="24" y="30" width="112" height="90" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+    <rect x="32" y="38" width="96" height="74" rx="2" fill="#010409"/>
+    <text x="80" y="83" text-anchor="middle" class="mono acc s22 b">&lt;/&gt;</text>
+
+    <!-- ears -->
+    <path d="M 42 34 L 50 6 L 66 32 Z" fill="#0d1117" stroke="#3fb950" stroke-width="2.5" stroke-linejoin="round"/>
+    <path d="M 94 32 L 110 6 L 118 34 Z" fill="#0d1117" stroke="#3fb950" stroke-width="2.5" stroke-linejoin="round"/>
+    <path d="M 49 27 L 53 14 L 59 26 Z" fill="#3fb950" opacity="0.55"/>
+    <path d="M 101 26 L 107 14 L 111 27 Z" fill="#3fb950" opacity="0.55"/>
+
+    <!-- head, peeking above the screen top edge, looking down at it -->
+    <path d="M 38 30 Q 80 2 122 30 L 122 40 Q 80 16 38 40 Z" fill="#0d1117" stroke="#3fb950" stroke-width="2.5"/>
+
+    <!-- eyes looking down at the screen -->
+    <ellipse cx="65" cy="26" rx="3.4" ry="4.2" fill="#e6edf3"/>
+    <ellipse cx="95" cy="26" rx="3.4" ry="4.2" fill="#e6edf3"/>
+
+    <!-- whiskers -->
+    <line x1="34" y1="22" x2="52" y2="25" stroke="#3fb950" stroke-width="1.2" opacity="0.7"/>
+    <line x1="34" y1="29" x2="52" y2="29" stroke="#3fb950" stroke-width="1.2" opacity="0.7"/>
+    <line x1="126" y1="22" x2="108" y2="25" stroke="#3fb950" stroke-width="1.2" opacity="0.7"/>
+    <line x1="126" y1="29" x2="108" y2="29" stroke="#3fb950" stroke-width="1.2" opacity="0.7"/>
+
+    <!-- paws resting on the keyboard, typing -->
+    <ellipse cx="58" cy="126" rx="9" ry="6" fill="#0d1117" stroke="#3fb950" stroke-width="2.5"/>
+    <ellipse cx="102" cy="126" rx="9" ry="6" fill="#0d1117" stroke="#3fb950" stroke-width="2.5"/>
+  </g>
+
+  <!-- ============ MISSION ============ -->
+  <text x="90" y="470" class="sans w b s18">Mission</text>
+  <text x="90" y="500" class="sans dim s16">— Build cool AI things.</text>
+  <text x="90" y="526" class="sans dim s16">— Pet every cat encountered.</text>
+
+  <!-- vertical divider -->
+  <line x1="565" y1="118" x2="565" y2="782" stroke="#21262d" stroke-width="1"/>
+
+  <!-- ============ STATUS ============ -->
+  <text x="600" y="150" class="sans w b s18">Currently</text>
+
+  <text x="600" y="188" class="mono dim s14">status</text>
+  <circle cx="700" cy="183" r="4" fill="#3fb950"/>
+  <text x="712" y="188" class="mono acc s14 b">online</text>
+
+  <text x="600" y="216" class="mono dim s14">building</text>
+  <text x="712" y="216" class="mono w s14">LLM &amp; RAG applications</text>
+
+  <text x="600" y="244" class="mono dim s14">learning</text>
+  <text x="712" y="244" class="mono w s14">LangChain</text>
+
+  <text x="600" y="272" class="mono dim s14">goal</text>
+  <text x="712" y="272" class="mono w s14">become an AI engineer</text>
+
+  <line x1="600" y1="302" x2="1130" y2="302" stroke="#21262d" stroke-width="1"/>
+
+  <!-- ============ STATS ============ -->
+  <text x="600" y="336" class="sans w b s18">Stats</text>
+
+  <text x="600" y="370" class="mono dim s14">energy</text>
+  <rect x="700" y="360" width="240" height="8" rx="4" fill="#21262d"/>
+  <rect x="700" y="360" width="175" height="8" rx="4" fill="#3fb950"/>
+  <text x="955" y="370" class="mono dim s14">73%</text>
+
+  <text x="600" y="398" class="mono dim s14">knowledge</text>
+  <rect x="700" y="388" width="240" height="8" rx="4" fill="#21262d"/>
+  <rect x="700" y="388" width="120" height="8" rx="4" fill="#3fb950"/>
+  <text x="955" y="398" class="mono dim s14">growing</text>
+
+  <text x="600" y="426" class="mono dim s14">motivation</text>
+  <rect x="700" y="416" width="240" height="8" rx="4" fill="#21262d"/>
+  <rect x="700" y="416" width="204" height="8" rx="4" fill="#3fb950"/>
+  <text x="955" y="426" class="mono dim s14">high</text>
+
+  <text x="600" y="454" class="mono dim s14">coffee</text>
+  <rect x="700" y="444" width="240" height="8" rx="4" fill="#21262d"/>
+  <rect x="700" y="444" width="24" height="8" rx="4" fill="#3fb950"/>
+  <text x="955" y="454" class="mono dim s14">low</text>
+
+  <line x1="70" y1="740" x2="1130" y2="740" stroke="#21262d" stroke-width="1"/>
+
+  <!-- footer -->
+  <text x="70" y="778" class="mono dim s16">zain@github:~$</text>
+  <rect x="215" y="762" width="9" height="18" fill="#3fb950">
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.55;0.95;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+  <text x="1130" y="778" text-anchor="end" class="mono acc s16">keep building</text>
 
 </svg>
