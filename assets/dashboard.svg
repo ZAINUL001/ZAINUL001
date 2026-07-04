@@ -1,1 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
 
+<svg
+xmlns="http://www.w3.org/2000/svg"
+width="1200"
+height="850"
+viewBox="0 0 1200 850">
+
+<defs>
+
+
+<style>
+
+
+.bg{
+fill:#070707;
+}
+
+.term{
+fill:#0d0d0d;
+stroke:#00ff41;
+stroke-width:3;
+}
+
+.white{
+fill:white;
+font-family:Consolas,'Courier New',monospace;
+}
+
+.green{
+fill:#00ff41;
+font-family:Consolas,'Courier New',monospace;
+}
+
+.small{
+font-size:18px;
+}
+
+.medium{
+font-size:24px;
+}
+
+.large{
+font-size:32px;
+}
+
+.title{
+font-size:20px;
+}
+
+</style>
+
+<filter id="glow">
+
+<feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+
+<feMerge>
+
+<feMergeNode in="coloredBlur"/>
+
+<feMergeNode in="SourceGraphic"/>
+
+</feMerge>
+
+</filter>
+
+</defs>
+
+<rect
+class="bg"
+width="1200"
+height="850"/>
+
+<rect
+class="term"
+filter="url(#glow)"
+x="35"
+y="35"
+width="1130"
+height="780"
+rx="18"/>
+
+<rect
+x="35"
+y="35"
+width="1130"
+height="45"
+rx="18"
+fill="#111111"/>
+
+<circle
+cx="65"
+cy="58"
+r="7"
+fill="#ff5f56"/>
+
+<circle
+cx="90"
+cy="58"
+r="7"
+fill="#ffbd2e"/>
+
+<circle
+cx="115"
+cy="58"
+r="7"
+fill="#27c93f"/>
+
+<text
+x="600"
+y="62"
+class="white title"
+text-anchor="middle">
+
+zain@github:~/dashboard
+
+</text>
+
+<text
+x="70"
+y="125"
+class="green medium">
+
+&gt; whoami
+
+</text>
+
+<text
+x="80"
+y="175"
+class="white small"
+font-family="'Courier New', monospace">
+
+<tspan x="80" dy="0"> /\_/\\</tspan>
+<tspan x="80" dy="20">( •.• )</tspan>
+<tspan x="80" dy="20"> / &gt;💻</tspan>
+
+</text>
+<text
+x="250"
+y="170"
+class="white large">
+
+Sayed Zainul Abedin Husain
+
+</text>
+
+<text
+x="250"
+y="210"
+class="green medium">
+
+aka Zain
+
+</text>
+
+<text
+x="250"
+y="260"
+class="white medium">
+
+Mission
+
+</text>
+
+<text
+x="270"
+y="295"
+class="green small">
+
+&gt; Build cool AI things.
+
+</text>
+
+<text
+x="270"
+y="325"
+class="green small">
+
+&gt; Pet every cat encountered.
+
+</text>
+
+<line
+x1="70"
+y1="365"
+x2="1130"
+y2="365"
+stroke="#00ff41"
+opacity=".35"
+stroke-width="2"/>
+
+<text
+x="70"
+y="405"
+class="green medium">
+
+&gt; skills
+
+</text>  
+<!-- Python -->
+
+<text
+x="90"
+y="455"
+class="white small">
+
+Python
+
+</text>
+
+<rect
+x="220"
+y="440"
+width="260"
+height="18"
+rx="9"
+fill="#1b1b1b"/>
+
+<rect
+x="220"
+y="440"
+width="240"
+height="18"
+rx="9"
+fill="#00ff41"/>
+
+<!-- C++ -->
+
+<text
+x="90"
+y="495"
+class="white small">
+
+C++
+
+</text>
+
+<rect
+x="220"
+y="480"
+width="260"
+height="18"
+rx="9"
+fill="#1b1b1b"/>
+
+<rect
+x="220"
+y="480"
+width="210"
+height="18"
+rx="9"
+fill="#00ff41"/>
+
+<!-- Java -->
+
+<text
+x="90"
+y="535"
+class="white small">
+
+Java
+
+</text>
+
+<rect
+x="220"
+y="520"
+width="260"
+height="18"
+rx="9"
+fill="#1b1b1b"/>
+
+<rect
+x="220"
+y="520"
+width="165"
+height="18"
+rx="9"
+fill="#00ff41"/>
+
+<!-- LLM -->
+
+<text
+x="90"
+y="575"
+class="white small">
+
+LLMs
+
+</text>
+
+<rect
+x="220"
+y="560"
+width="260"
+height="18"
+rx="9"
+fill="#1b1b1b"/>
+
+<rect
+x="220"
+y="560"
+width="110"
+height="18"
+rx="9"
+fill="#00ff41"/>
+
+<!-- RAG -->
+
+<text
+x="90"
+y="615"
+class="white small">
+
+RAG
+
+</text>
+
+<rect
+x="220"
+y="600"
+width="260"
+height="18"
+rx="9"
+fill="#1b1b1b"/>
+
+<rect
+x="220"
+y="600"
+width="90"
+height="18"
+rx="9"
+fill="#00ff41"/>
+
+<!-- Divider -->
+
+<line
+x1="560"
+y1="390"
+x2="1120"
+y2="390"
+stroke="#00ff41"
+opacity=".35"
+stroke-width="2"/>
+
+<text
+x="590"
+y="425"
+class="green medium">
+
+&gt; current_status
+
+</text>
+
+<text
+x="600"
+y="470"
+class="white small">
+
+STATUS
+
+</text>
+
+<text
+x="760"
+y="470"
+class="green small">
+
+ONLINE
+
+</text>
+
+<text
+x="600"
+y="505"
+class="white small">
+
+CURRENTLY
+
+</text>
+
+<text
+x="760"
+y="505"
+class="green small">
+
+Building LLM &amp; RAG Applications
+
+</text>
+
+<text
+x="600"
+y="540"
+class="white small">
+
+LEARNING
+
+</text>
+
+<text
+x="760"
+y="540"
+class="green small">
+
+LangChain
+
+</text>
+
+<text
+x="600"
+y="575"
+class="white small">
+
+GOAL
+
+</text>
+
+<text
+x="760"
+y="575"
+class="green small">
+
+Become an AI Engineer
+
+</text>
+<line
+x1="560"
+y1="610"
+x2="1120"
+y2="610"
+stroke="#00ff41"
+opacity=".35"
+stroke-width="2"/>
+
+<text
+x="590"
+y="645"
+class="green medium">
+
+&gt; cat ~/.life
+
+</text>
+
+<text
+x="610"
+y="690"
+class="white small">
+
+Current HP      ███████░░░ 73%
+
+</text>
+
+<text
+x="610"
+y="725"
+class="white small">
+
+Knowledge       █████░░░░░ Learning...
+
+</text>
+
+<text
+x="610"
+y="760"
+class="white small">
+
+Motivation      ████████░░ High
+
+</text>
+
+<text
+x="610"
+y="795"
+class="white small">
+
+Coffee          █░░░░░░░░░ Missing
+
+</text>
+
+<line
+x1="70"
+y1="730"
+x2="540"
+y2="730"
+stroke="#00ff41"
+opacity=".25"
+stroke-width="2"/>
+
+<text
+x="70"
+y="770"
+class="green medium">
+
+user@zain:~$
+
+</text>
+
+<rect
+x="225"
+y="748"
+width="12"
+height="28"
+fill="#00ff41">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="1s"
+repeatCount="indefinite"/>
+
+</rect>
+
+<text
+x="590"
+y="825"
+class="green small">
+
+Keep Building...
+
+</text>
+
+</svg>
