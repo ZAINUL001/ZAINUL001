@@ -57,34 +57,11 @@ TOOLS           :: Git
 ---
 
 
-# `terminal_dashboard`
+## terminal_dashboard
 
-```text
-┌──────────────────────────────────────────────────────┐
-│ > whoami                                             │
-│                                                      │
-│    /\_/\                                             │
-│   ( •.• )                                            │
-│   / >💻                                              │
-│                                                      │
-│    Sayed Zainul Abedin Husain                        │
-│    aka Zain                                          │
-│                                                      │
-│ Mission:                                             │
-│ > Build cool AI things.                              │
-│ > Pet every cat encountered.                         │
-├──────────────────────────────────────────────────────┤
-│ > cat ~/.life                                        │
-│                                                      │
-│ HP          ███████████████░░ 73%                    │
-│ Knowledge   ████████░░░░░░░ Learning...              │
-│ Motivation  ███████████████ High                     │
-│ Coffee      ██░░░░░░░░░░░ Missing                    │
-│ Cats Today  0 (Needs Improvement)                    │
-│                                                      │
-│ user@zain:~$ █                                       │
-└──────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <img src="./assets/dashboard.svg" width="100%">
+</p>
 
 ---
 
