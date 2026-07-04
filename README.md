@@ -60,9 +60,8 @@ TOOLS           :: Git
 ## terminal_dashboard
 
 <p align="center">
-  <img src="./assets/dashboard.svg" width="100%">
+  <img src="./assets/dashboard.svg" alt="Terminal Dashboard" width="100%">
 </p>
-
 ---
 
 ```console
