@@ -56,7 +56,6 @@ TOOLS           :: Git
 
 ---
 
-# `terminal_dashboard`
 
 # `terminal_dashboard`
 
