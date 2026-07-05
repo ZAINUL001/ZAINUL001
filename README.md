@@ -31,7 +31,7 @@ TOOLS           :: Git
 
 ---
 
-## `technology_stack`
+## `Technology_stack`
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,vscode&perline=8" />
